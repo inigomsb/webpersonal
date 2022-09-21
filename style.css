@@ -230,3 +230,11 @@ table {
 .zelda {
   height: 250px;
 }
+
+.mapa {
+  margin-left: 37%;
+  margin-top: 2%;
+  width: 400px;
+  height: 300px;
+  border-radius: 20px;
+}

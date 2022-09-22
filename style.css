@@ -105,7 +105,6 @@ a:active {
 iframe {
   width: 500px;
   height: 275px;
-  
 }
 
 h2 {
@@ -120,7 +119,7 @@ h2 {
 
 .biografia img {
   height: 325px;
-  vertical-align: middle;
+  /* vertical-align: middle; */
   float: left;
   margin-top: 2%;
   margin-left: 18%;
